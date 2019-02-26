@@ -1,0 +1,4 @@
+# configuration
+region: us-west-2
+memorySize: 1024
+stage: prod
